@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5833,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "git push",
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"python li",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"git ci",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Github: Issues"
+			],
+			[
+				"coffee",
+				"Coffee: Run Script / Selection"
+			],
+			[
+				"coffe run",
+				"Coffee: Run Script / Selection"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/paulius/workspace/akademikai-website",
+		"/home/paulius/workspace/akademikai-website/css"
+	],
+	"file_history":
+	[
+		"/home/paulius/workspace/akademikai-website/.gitignore",
+		"/home/paulius/workspace/akademikai-website/.sublime-project",
+		"/home/paulius/workspace/akademikai-website/.sublime-project.sublime-workspace",
+		"/home/paulius/.config/antfs-cli/scripts/prepare.sh",
+		"/home/paulius/.config/antfs-cli/scripts/garmin-connect.py",
+		"/home/paulius/.config/antfs-cli/scripts/garmin-connect-upload.py",
+		"/tmp/.fr-nUopm2/GcpUploader-2015.2.28/gupload.py",
+		"/tmp/.fr-TZkTIz/GcpUploader-2015.2.28/lib/UploadGarmin.py",
+		"/tmp/.fr-ygUNs6/GcpUploader-2015.2.28/gupload.py",
+		"/home/paulius/.config/antfs-cli/scripts/python-garmin-upload/MultipartPostHandler.py",
+		"/home/paulius/.config/antfs-cli/scripts/python-garmin-upload/UploadGarmin.py",
+		"/home/paulius/a.htm",
+		"/home/paulius/.config/antfs-cli/scripts/garmin-upload/garmin-upload.py",
+		"/home/paulius/workspace/fMBT/examples/c++-unittest/mycountertest.cc.aal",
+		"/home/paulius/Downloads/VšĮ Mykolo Marcinkevičiaus ligoninė.xlsx",
+		"/home/paulius/workspace/akademikai-website/css/style.css",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 3/machine-learning-ex2/ex2/ex2_reg.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 3/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 3/machine-learning-ex2/ex2/costFunction.m",
+		"/home/paulius/workspace/akademikai-website/index.html",
+		"/home/paulius/workspace/akademikai-website/templates/elements.html",
+		"/home/paulius/workspace/akademikai-website/css/font-awesome.min.css",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 3/machine-learning-ex2/ex2/mapFeature.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 3/machine-learning-ex2/ex2/ex2.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 3/machine-learning-ex2/ex2/sigmoid.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 3/machine-learning-ex2/ex2/predict.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 3/machine-learning-ex2/ex2/plotData.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 3/machine-learning-ex2/ex2/plotDecisionBoundary.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/computeCost.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/computeCostMulti.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/ex1.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/normalEqn.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/ex1_multi.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/featureNormalize.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/gradientDescent.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/gradientDescentMulti.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/submit.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/plotData.m",
+		"/home/paulius/Documents/Coursera/Machine Learning - Andrew Ng/Week 2/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/home/paulius/workspace/third_hand/spec.txt",
+		"/home/paulius/workspace/third_hand/third_hand.py",
+		"/home/paulius/gpg.man",
+		"/home/paulius/Desktop/0x8D6E3D98.asc.pgp",
+		"/home/paulius/Desktop/0x8D6E3D98.asc",
+		"/home/paulius/list.txt",
+		"/home/paulius/workspace/irc-bot/src/core.py",
+		"/home/paulius/workspace/irc-bot/setup.py",
+		"/home/paulius/Downloads/viber.deb",
+		"/home/paulius/workspace/irc-bot/ansible/setup.py",
+		"/home/paulius/workspace/irc-bot/ansible/playbook.yml",
+		"/home/paulius/workspace/irc-bot/ansible/roles/setup/tasks/main.yml",
+		"/home/paulius/workspace/irc-bot/ansible/inventories/dev",
+		"/home/paulius/workspace/irc-bot/ansible/roles/setup/tasks/python.yml",
+		"/home/paulius/Documents/wg_search.txt",
+		"/home/paulius/Documents/requests.txt",
+		"/tmp/Bvariklis",
+		"/home/paulius/workspace/irc-bot/tests/ircbot_tests.py",
+		"/home/paulius/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/paulius/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/paulius/workspace/irc-bot/.gitignore",
+		"/home/paulius/workspace/vilnius/problemos/map/index.html",
+		"/home/paulius/workspace/vilnius/problemos/data/problemos.csv",
+		"/home/paulius/.config/hexchat/keybindings.conf",
+		"/home/paulius/workspace/vilnius/problemos/map/parser.js",
+		"/home/paulius/workspace/vilnius/problemos/data/parser.py",
+		"/home/paulius/workspace/Tasker/src/Task.coffee",
+		"/home/paulius/workspace/Tasker/src/uuid.coffee",
+		"/home/paulius/workspace/Tasker/Gruntfile.js",
+		"/home/paulius/workspace/Tasker/src/app.coffee",
+		"/tmp/Task.js",
+		"/home/paulius/workspace/Tasker/uuid.coffee",
+		"/home/paulius/workspace/Tasker/Task.coffee",
+		"/home/paulius/workspace/Tasker/src/app.js",
+		"/home/paulius/workspace/Tasker/src/Cakefile",
+		"/home/paulius/.config/sublime-text-3/Packages/User/CoffeeScript.sublime-settings",
+		"/home/paulius/.config/sublime-text-3/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+		"/home/paulius/.config/sublime-text-3/Packages/Better CoffeeScript/Keymaps/Default (Linux).sublime-keymap",
+		"/home/paulius/workspace/Tasker/Task.js",
+		"/home/paulius/workspace/node/Makefile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_log",
+			"plugin.",
+			"upload_file",
+			"upload_tcx",
+			"import",
+			"MultipartPostHandler",
+			"iamge",
+			"icon",
+			"662132",
+			"e44c65",
+			"href=\"",
+			"src=\"",
+			"href=\"",
+			"src=\"",
+			"--armor",
+			"	",
+			"Npm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": ".sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
